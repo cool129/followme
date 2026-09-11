@@ -126,4 +126,9 @@ The Ollama prompt asks for strict anchors:
 - `5.0` — ordinary / middle
 - `9.0` — strong / senior
 
+## Logs 
+
+<img width="1043" height="1501" alt="Screenshot 2026-09-10 204324" src="https://github.com/user-attachments/assets/ee98fa75-0d6d-4d9e-a6e5-49865799f526" />
+
+
 Both `idea` and `skill` are clamped into `[1.0, 10.0]`.
